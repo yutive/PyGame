@@ -1,6 +1,6 @@
 # Space Invaders with Pygame
 
-OVerview:
+Overview:
 
 Hello everyone!
 
