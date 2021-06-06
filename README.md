@@ -9,4 +9,4 @@
 
 -To watch what I coded download the SpaceInvaderCode.zip file.
 
--Credits: The Credits for the Sprites are going to programmieren-starten.de where I learnd how to code such game.
+-Credits: The Credits for the Sprites are going to programmieren-starten.de where I learnd how to code such games.
