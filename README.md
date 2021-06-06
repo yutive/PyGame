@@ -1,6 +1,8 @@
 # Space Invaders with Pygame
 
- Hello everyone!
+OVerview:
+
+Hello everyone!
 
 -This is my python Space Invaders game that I made for school
 
@@ -9,4 +11,12 @@
 
 -To watch what I coded download the SpaceInvaderCode.zip file.
 
--Credits: The Credits for the Sprites are going to programmieren-starten.de where I learnd how to code such games.
+Controls:
+
+1.Press the left arrow to move left and the right arrow to move right
+2.Press Space to shoot bullets
+3.Have fun defending your spaceship
+
+Credits:
+
+The Credits for the Sprites are going to programmieren-starten.de where I learnd how to code such games.
